@@ -28,7 +28,26 @@ function casa() {
     
     noStroke();
     rect(110, 260, 30, 40, 3);
+    
+    fill("#00853e")
+    noStroke();
+    circle(210, 178, 30)
+    circle(230, 180, 35)
+    circle(190, 178, 30)
+    fill("#00853e")
+    circle(170, 190, 40)
+    fill("#52ff86")
+    circle(180, 170, 20)
+    fill("#00853e")
+    circle(150, 200, 30)
+    fill("#52ff86")
+    circle(250, 190, 30)
+    fill("#00853e")
+    circle(265, 205, 40)
+    fill("#52ff86")
+    circle(150, 220, 30)
+    fill("#00853e")
+    circle(160, 210, 25)
+
 }
-
-
 
