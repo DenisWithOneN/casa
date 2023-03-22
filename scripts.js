@@ -49,5 +49,19 @@ function casa() {
     fill("#00853e")
     circle(160, 210, 25)
 
+
+    circle(125, 240, 30)
+    fill("#52ff86")
+    circle(110, 240, 20)
+    fill("#00853e")
+    circle(100, 244, 18)
+    circle(110, 246, 20)
+    fill("#52ff86")
+    circle(145, 240, 25)
+    fill("#00853e")
+    circle(147, 244, 22)
+    
+    
+
 }
 
